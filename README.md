@@ -1,4 +1,4 @@
-# GAM with Local Polynomials and Predictor Importance through LOCO
+# GAM with Local Polynomials and Predictor Importance study using LOCO
 
 Project for the course *"Statistical Learning"* of the Master Degree in Data Science at *Sapienza University of Rome*.
 
