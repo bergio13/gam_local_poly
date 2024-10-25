@@ -8,8 +8,9 @@ Our approach scored **4th** place out of 23 teams in the course's *Kaggle* compe
 </div>
 
 ## Project Overview
-- Objective: Develop a GAM with locally estimated polynomial smoothers to capture non-linear relationships in the data, and assess predictor importance using LOCO.
-- Competition: Redshift prediction problem on Kaggle, where the model's interpretability and predictive performance were critical.
+- **Dataset**: The training data consists of approximately 7,500 astronomical objects with redshift values and photometric color measurements (features: ug, gr, ri, iz, zy, and i). The goal is to predict the redshift of an additional 2,500 objects based on these photometric colors.
+- **Objective**: Develop a GAM using local polynomial smoothers to model the relationship between redshift and photometric colors and assess predictor importance with LOCO.
+- **Competition**: Redshift prediction problem on Kaggle, where the interpretability and predictive power of the model were key. This approach ranked 4th out of 23 teams.
 
 <div align="center">
     <img src="https://github.com/bergio13/gam_local_poly/blob/main/output/diagnostic_plot.png" style="width: 50%;" alt="Diagnostic Plot" />
