@@ -4,7 +4,7 @@ This project was completed for the *"Statistical Learning"* course in the Data S
 
 Our approach scored **4th** place out of 23 teams in the course's *Kaggle* competition, focused on a redshift prediction problem.
 <div align="center">
-    <img src="https://github.com/bergio13/gam_local_poly/blob/main/leaderboard.png" style="width: 50%;" alt="Diagnostic Plot" />
+    <img src="https://github.com/bergio13/gam_local_poly/blob/main/leaderboard.png" style="width: 40%;" alt="Leaderboard" />
 </div>
 
 ## Project Overview
